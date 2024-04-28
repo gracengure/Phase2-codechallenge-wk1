@@ -8,7 +8,7 @@
 ## Description
 ### Usage
 Start the development server:npm start 
-Open your browser and visit http://localhost:3000 to view the application.
+Open your browser and visitto view the application.
 
 
 ### Features
