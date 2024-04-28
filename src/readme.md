@@ -32,7 +32,7 @@ Git
 ### Installation instruction
 
 
-Git clone https://github.com/gracengure/Phase-2--week-1-codechallenge
+Git clone https://github.com/gracengure/phase2-codechallenge-wk1
 
 
 ## Technologies used
